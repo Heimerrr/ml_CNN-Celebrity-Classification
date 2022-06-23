@@ -18,7 +18,7 @@
 
 
 
-[참고]
+[참고]  
  나동빈님 github  
  https://github.com/gurugaurav/bing_image_downloader.git - image 크롤링 Lib
 
