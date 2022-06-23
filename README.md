@@ -15,7 +15,8 @@
 
 
 
-
+[예시]
+![ex_screenshot](./example.jpg)
 
 
 [참고]  
